@@ -1,0 +1,14 @@
+[2025-05-23T22:27:04.767386600] Error al conectar con el servidor: Connection refused: connect
+[2025-05-23T22:27:32.007297600] Hora del servidor: 2025-05-23T22:27:31.965744
+RTT: 24 ms
+Hora ajustada: 2025-05-23T22:27:31.977744
+
+[2025-05-23T22:27:49.561900400] Hora del servidor: 2025-05-23T22:27:49.516852500
+RTT: 0 ms
+Hora ajustada: 2025-05-23T22:27:49.516852500
+
+[2025-05-23T22:27:59.490571400] Error al conectar con el servidor: Connection refused: connect
+[2025-05-23T22:28:53.807355700] Hora del servidor: 2025-05-23T22:28:53.767947100
+RTT: 27 ms
+Hora ajustada: 2025-05-23T22:28:53.780947100
+
